@@ -60,6 +60,8 @@
     "build"
   ],
   "dependencies": {
+    "facesjs": "^4.0.0",
+    "react-native-svg": "^15.1.0",
     "svg-path-bbox": "^1.2.4"
   },
   "bin": "build/esmodules/cli.js",
